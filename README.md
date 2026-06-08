@@ -30,9 +30,10 @@ This application is configured to build and run seamlessly using Maven.
 2. **Run the application:**
 Ensure you have Maven installed, then execute the JavaFX plugin from your terminal:
 
-Bash
-mvn clean javafx:run
-Controls
+    ```bash
+    mvn clean javafx:run
+
+**Controls**
 Left Arrow: Rotate rover 90 degrees counter-clockwise.
 
 Right Arrow: Rotate rover 90 degrees clockwise.
