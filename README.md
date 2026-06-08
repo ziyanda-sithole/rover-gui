@@ -34,8 +34,9 @@ Ensure you have Maven installed, then execute the JavaFX plugin from your termin
     mvn clean javafx:run
 
 **Controls**
-Left Arrow: Rotate rover 90 degrees counter-clockwise.
 
-Right Arrow: Rotate rover 90 degrees clockwise.
+* **Left Arrow:** Rotate rover 90 degrees counter-clockwise.
 
-Up Arrow: Move forward one grid space in the current facing direction.
+* **Right Arrow:** Rotate rover 90 degrees clockwise.
+
+* **Up Arrow:** Move forward one grid space in the current facing direction.
