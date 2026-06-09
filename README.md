@@ -24,7 +24,7 @@ This application is configured to build and run seamlessly using Maven.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/rover-gui.git](https://github.com/yourusername/rover-gui.git)
+   git clone [https://github.com/ziyanda-sithole/rover-gui.git](https://github.com/ziyanda-sithole/rover-gui.git)
    cd rover-gui
 
 2. **Run the application:**
